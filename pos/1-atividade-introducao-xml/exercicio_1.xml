@@ -1,0 +1,21 @@
+<xml version="1.0">
+	<pessoa>
+		<nome>João da Silva</nome>
+		<idade>33 anos</idade>
+		<hobbyes>
+			<hobby>Jogar Futebol</hobby>
+			<hobby>Pescar</hobby>
+			<hobby>Tocar Violão</hobby>
+		</hobbyes>
+	</pessoa>
+	
+	<pessoa>
+		<nome>Maria</nome>
+		<idade>29 anos</nome>
+		<hobbyes>
+			<hobby></hobby>
+			<hobby>Pescar</hobby>
+			<hobby>Tocar Violão</hobby>
+		</hobbyes>
+	</pessoa>
+</xml>

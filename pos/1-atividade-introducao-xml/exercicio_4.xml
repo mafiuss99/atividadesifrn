@@ -1,0 +1,22 @@
+<xml version="1.0">
+	<cardapio>
+		<entradas>
+			<entrada>Canapés</entrada>
+			<entrada>Tábua de enchidos</entrada>
+			<entrada>Tábua de queijos</entrada>
+			<entrada>Tábua de carnes frias</entrada>
+		</entradas>
+		<pratos>
+			<prato>lasanha</prato>
+			<prato>escondidinho</prato>
+		</pratos>
+		<bebidas>
+			<bebida>Maracujá</bebida>
+			<bebida>Acerola</bebida>
+		</bebidas>
+		<sobremesas>
+			<sobremesa>Mouse de maracujá</sobremesa>
+		</sobremesas>
+	</cardapio>
+</xml>
+

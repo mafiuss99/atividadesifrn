@@ -1,0 +1,18 @@
+<xml version="1.0">
+	<plano>
+		<cliente>
+			<nome>Sávio Lucas</nome>
+			<dependentes>
+				<dependente>
+					<nome>Noadia Lipi</nome>
+				</dependente>
+				<dependente>
+					<nome>Sammira Lipi</nome>
+				</dependente>
+				<dependente>
+					<nome>Sávio junior</nome>
+				</dependente>
+			</dependentes>
+		</cliente>
+	</plano>
+</xml>
