@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<pessoas>
+	<pessoa>
+		<nome>João</nome>
+		<idade>33</idade>
+		<hobbies>
+			<hobby>futebol</hobby>
+			<hobby>pescar</hobby>
+			<hobby>tocar violão</hobby>
+		</hobbies>
+	</pessoa>
+	<pessoa>
+		<nome>Maria</nome>
+		<idade>29</idade>
+		<hobbies>
+			<hobby>dançar</hobby>
+			<hobby>cozinhar</hobby>
+			<hobby>ler</hobby>
+		</hobbies>
+	</pessoa>
+</pessoas>
